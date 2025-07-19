@@ -1,0 +1,21 @@
+{
+  "name": "Branda Música",
+  "short_name": "BrandaMúsica",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d40000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDqJM6S1tXO-jUNMpVS_trdawhhrS1P6Wj6eiARKdwbRP8w1KRUKBXZwFPSTucuaCfCtl1L69YGgQ_BsJJQOqVF2civhgtlBiXijz4REBI_U3iiR3Ag2atdKTfWQyiuaMeRD7s9ilIB1EcbCQ8vAPh2g325wMwMpH4GzVm45gVm9lJnP2IGlRkaiSqJlV/s475/1739736359249.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaV_R6hOivfmOfsRHm1Fxy3D1K68s7oTsI_GEP_y7Z0ALc-jQXq-7A_cMbcyGHbDpR5TeFsLZNPqDmqWCIpJvYGd38vBV5v26_upghQ2niPJ5sKUYay6NiTygFUz3otH4ebLlbCQ51AefPZOu4FPhyTDpscwNSZfLMU6_hhBaDOqk3yVmEZNn1SkMrq50P/s600/brandamusica_logo_horizontal_final.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}￼Enter
